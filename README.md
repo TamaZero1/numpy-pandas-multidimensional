@@ -35,9 +35,9 @@ cd numpy_examples
 python array_creation.py
 
 
+
 Repite estos pasos para cada archivo de ejemplo que desees ejecutar.
 
 Si tienes preguntas o deseas agregar ejemplos adicionales, no dudes en abrir un Issue o Pull Request en este repositorio.
 
 "Evidencia 2 de Estructuras de Datos y su procesamiento: Repositorio en plataforma Git que demuestre el aprovechamiento de estructuras multidimensionales bajo NumPy y Pandas"
-
